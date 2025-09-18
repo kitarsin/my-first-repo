@@ -1,1 +1,2 @@
-empty test file
+empty test file from conflict
+
